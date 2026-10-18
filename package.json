@@ -1,17 +1,29 @@
 {
   "name": "@superinstance/observation-primitive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The canonical substrate atom: observation as fundamental. FNV-1a signed, type-safe, federation-ready.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["observation", "substrate", "jev-quilt", "canon", "fnv1a", "witness-log", "doctrine"],
+  "keywords": [
+    "observation",
+    "substrate",
+    "jev-quilt",
+    "canon",
+    "fnv1a",
+    "witness-log",
+    "doctrine"
+  ],
   "author": "SuperInstance",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SuperInstance/observation-primitive.git"
+  },
+  "homepage": "https://github.com/SuperInstance/observation-primitive#readme",
+  "bugs": {
+    "url": "https://github.com/SuperInstance/observation-primitive/issues"
   }
 }
